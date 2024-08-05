@@ -35,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.linkedin.com/in/navnit-keshav-715259258/).
+If you want to contact with me you can reach me at [Linked in](https://www.linkedin.com/in/navnit-keshav-715259258/).
 
 ### License
 
