@@ -8,7 +8,7 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Homely</h2>
+  <h2 align="center">Homeverse</h2>
 
   Homeverse is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
